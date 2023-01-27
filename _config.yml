@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "王小凤"
+title                    : "Xiaofeng Wang"
 title_separator          : "-"
 name                     : &name "Xiaofeng Wang"
 description              : &description "Xin li xue"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Xiaofeng Wang"
+  avatar           : "IMG_0343.JPG"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
